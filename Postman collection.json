@@ -1,0 +1,80 @@
+{
+    "collection": {
+      "info": {
+        "_postman_id": "b3c33487-53d6-4346-9609-b59eebb5d240",
+        "name": "Doctor-Patient",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+        "updatedAt": "2024-05-21T14:50:11.000Z",
+        "uid": "34128908-b3c33487-53d6-4346-9609-b59eebb5d240",
+        "createdAt": null,
+        "lastUpdatedBy": null
+      },
+      "item": [
+        {
+          "name": "Add Doctor",
+          "id": "f377d281-e5e7-4294-a030-e9993568a24c",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": [],
+          "uid": "34128908-f377d281-e5e7-4294-a030-e9993568a24c"
+        },
+        {
+          "name": "All Doctors",
+          "id": "fa5a9a22-5710-4d5a-9279-353d9c821847",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": [],
+          "uid": "34128908-fa5a9a22-5710-4d5a-9279-353d9c821847"
+        },
+        {
+          "name": "Add Patient",
+          "id": "fbec1c14-999e-40f0-b3c6-bf6b57e14f00",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": [],
+          "uid": "34128908-fbec1c14-999e-40f0-b3c6-bf6b57e14f00"
+        },
+        {
+          "name": "Get Suggestion",
+          "id": "572426f4-6fd7-4a59-8327-791dc6edc2e9",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": [],
+          "uid": "34128908-572426f4-6fd7-4a59-8327-791dc6edc2e9"
+        },
+        {
+          "name": "Delete Doctor",
+          "id": "7f63ebb9-3571-4739-bcc0-516c3dd25ab6",
+          "protocolProfileBehavior": {
+            "disableBodyPruning": true
+          },
+          "request": {
+            "method": "GET",
+            "header": []
+          },
+          "response": [],
+          "uid": "34128908-7f63ebb9-3571-4739-bcc0-516c3dd25ab6"
+        }
+      ]
+    }
+  }
